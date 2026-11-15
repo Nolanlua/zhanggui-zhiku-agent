@@ -1,0 +1,5 @@
+{"question":"新品陈列标准是什么？","relevant_doc_ids":["doc_demo_001"],"expected_keywords":["陈列","新品"]}
+{"question":"门店退货流程要多久？","relevant_doc_ids":["doc_demo_002"],"expected_keywords":["退货","时效"]}
+{"question":"SKU-1024 的保质期是多久？","relevant_doc_ids":["doc_demo_003"],"expected_keywords":["保质期"]}
+{"question":"店长如何申请促销活动？","relevant_doc_ids":["doc_demo_004"],"expected_keywords":["促销","申请"]}
+{"question":"库存差异怎么处理？","relevant_doc_ids":["doc_demo_005"],"expected_keywords":["库存","差异"]}
